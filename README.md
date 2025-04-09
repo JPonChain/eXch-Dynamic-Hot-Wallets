@@ -89,7 +89,16 @@ https://thorchain.net/address/bc1qu2dq8w8lv8v3l7lr2c5tvx3yltv22r3nhkx7w0
 0xe0d02c9F9deAf6857cdf6C4F2CC6ff54A36EF5a2
 ```
 
-### eXch.cx Hot Wallet (ETH) 07/04/2025 - Present
+### eXch.cx Hot Wallet (ETH) 07/04/2025 - 08/04/2025
 ```
 0xa83fbe43770e59e69a4f95e61c86f437662214aa
+```
+
+### eXch.cx Hot Wallet (ETH) 08/04/2025 - 08/04/2025
+```
+0xa526709c373f6b08a2c90aa73d8c532db6a8a358
+```
+### eXch.cx Hot Wallet (ETH) 08/04/2025 - Present
+```
+0x5ddcd1c2243ebd9ee67cf2cb31901c0b28b914ef
 ```
